@@ -2,3 +2,20 @@ body
 {
     background-color: rgb(178, 170, 185);
 }
+
+    .container{
+        height: 50;
+        width: 50;
+        background-color:rgb(112, 48,160);
+        padding-left: 15px;
+        padding-top: 10px;
+        margin: 10px,0px 15px;
+        
+        
+}
+
+.id{
+    height: 300px;
+    width: 600px;
+
+}
