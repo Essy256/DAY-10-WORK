@@ -3,32 +3,26 @@
 .content{
     height: 275px;
     width:200 ;
-    background-color: white;
-    padding-left: 15px;
+    background-color: rgb(64, 231, 58);
+    padding-left: 150px;
     padding-top: 10px;
     padding: auto;
-    padding-bottom: 150px;
+    padding-bottom: 10px;
+    border-radius: 20000PX;
+    border-left: 15px;
+    border-right-color: aquamarine;
+    border-width: 20px;
+    border-top-left-radius: 50cm;
     
     
 }
 
-.logout{
-height: 250;
-width: 100;
-background-color:blueviolet;
-padding-left: 15px;
-padding-top: 50px;
-margin: 10px,0px 15px;
-padding-bottom: 150px;
-
-
-}
     
 button{
 
     margin-top: 20px;
     padding: 10px;
-    background-color: aqua;
+    background-color: rgb(228, 75, 14);
     color: aliceblue;
     border: none;
     border-radius: 5px;
@@ -36,6 +30,6 @@ button{
     front-size:16px;
 }
 button:hover{
-    background-color: rgb(185, 32, 122);
+    background-color: rgb(71, 24, 133);
 }
 
